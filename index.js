@@ -34,5 +34,5 @@
 // var s1 = r * 3.14;
 
 // console.log(s1);
-var car = ["oto", "xe mays"];
-console.log(car[1]);
+// var car = ["oto", "xe mays"];
+// console.log(car[1]);
