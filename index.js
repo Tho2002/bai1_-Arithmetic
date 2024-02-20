@@ -1,5 +1,10 @@
+//Toán tử gán
+
 var a = 10;
 var b = 20;
-var c = (b += a);
-
-console.log(c);
+b += a; //b=b+a
+b -= a; //b=b-a
+b *= a; //b=b*a
+b %= a; //b=b%a
+console.log(b);
+//Toán tử gán
