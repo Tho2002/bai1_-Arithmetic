@@ -27,10 +27,12 @@
 //   return a + b + c;
 // }
 
-var r = 20;
-function dienTich() {
-  return r * 3.14;
-}
-var s1 = r * 3.14;
+// var r = 20;
+// function dienTich() {
+//   return r * 3.14;
+// }
+// var s1 = r * 3.14;
 
-console.log(s1);
+// console.log(s1);
+var car = ["oto", "xe mays"];
+console.log(car[1]);
